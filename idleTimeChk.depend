@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651051643 source:/home/cgilh/Develop/codeblocks_projects/idleTimeChk/main.c
+	<stdio.h>
+	<stdlib.h>
+	<X11/Xlib.h>
+	<X11/extensions/XInput2.h>
+	<time.h>
+	<stdlib.h>
+	<dirent.h>
+	<errno.h>
+
