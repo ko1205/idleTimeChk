@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/Rnd/sg_global/.tmp/idleTimeChk 15 /Rnd/sg_global/.tmp/cgilh cgilh.log
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=idle time checker
+Name=idle time checker
+Comment[en_US]=
+Comment=
